@@ -5,3 +5,5 @@ export const containers: any[] = [ProductsComponent, ProductItemComponent];
 
 export * from './products/products.component';
 export * from './product-item/product-item.component';
+
+// !important comment for git branch testing
